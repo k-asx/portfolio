@@ -11,5 +11,5 @@
 ## Feito por:
 
 ### Karina Angela
-  ### Linkedin: !(https://www.linkedin.com/in/karina-di-stasio-099ba556/)
+  ### Linkedin: https://www.linkedin.com/in/karina-di-stasio-099ba556/
 
