@@ -171,6 +171,10 @@ strong{
 
         }
         
+        .apresentacao__imagem__curriculo{
+            width: 70%;
+        }
+        
         .cabecalho__menu{
             display: flex;
             gap: 30px;
