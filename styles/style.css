@@ -170,6 +170,11 @@ strong{
             padding-left: 30%;
 
         }
+        
+        .cabecalho__menu{
+            display: flex;
+            gap: 30px;
+        }
 
 
        }
