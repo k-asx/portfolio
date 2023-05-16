@@ -103,7 +103,7 @@ strong{
     gap: 16px;
     border-radius: 8px;
     border: 2px solid var(--cor-secundaria);
-    width: 50%;
+    width: 60%;
     font-size: 1.5rem;
     text-decoration: none;
     padding: 21.5px 0px;
@@ -113,7 +113,7 @@ strong{
 }
 
 .apresentacao__links__icones{
-    width: 10%;
+    width: 20%;
 }
 
 .apresentacao__links__link:hover{
